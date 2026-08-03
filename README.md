@@ -15,7 +15,7 @@ I build **secure, scalable, and maintainable web products**—from responsive in
 
 - 🔭 Currently turning complex product ideas into clear, production-ready systems
 - 🧭 Interested in backend engineering, distributed systems, and thoughtful web experiences
-- 🎓 Bachelor of Engineering (B.Eng)
+- 🎓 Bachelor of Engineering (B.Eng) in Computer Engineering
 - 💬 Open to software engineering roles and ambitious product collaborations
 
 ## Selected products
