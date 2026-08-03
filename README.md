@@ -1,3 +1,4 @@
+<!-- GitHub profile README for @stevo1403 -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101b2d,55:2457ff,100:7c3aed&height=220&section=header&text=Stephen%20Adebayo&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=17" alt="Stephen Adebayo — Software Developer" />
 
